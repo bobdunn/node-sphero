@@ -1,0 +1,26 @@
+{
+  "name": "node-sphero",
+  "version": "1.0.0",
+  "description": "Simple demo of how to control a sphero using Node.js and cylon.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobdunn/node-sphero.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node.js",
+    "sphero",
+    "cylon.js",
+    "cylon-sphero"
+  ],
+  "author": "Bob Dunn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobdunn/node-sphero/issues"
+  },
+  "homepage": "https://github.com/bobdunn/node-sphero#readme"
+}
